@@ -21,7 +21,7 @@ This project aims to help you learn the Diakhanké (Diakango) language through a
 
 ```bash
 git clone https://github.com/lansanacisse/Nkaran.git
-cd your-repo
+cd Nkaran
 ```
 
 2. Install the dependencies:
