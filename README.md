@@ -1,5 +1,6 @@
 # 📚 Nkaran - Learn Diakhanké
 
+
 Welcome to the **Nkaran** application!  
 This project aims to help you learn the Diakhanké (Diakango) language through an interactive app featuring automatic translation, audio pronunciation, and a growing dynamic dictionary.
 
@@ -72,5 +73,7 @@ If you want to help improve the dictionary or translation model, feel free to op
 ## 📣 Acknowledgments
 
 Special thanks to everyone supporting the promotion of African languages 🌍✨!
+
+![Description de l'image](assets/nkaran.png)
 
 
